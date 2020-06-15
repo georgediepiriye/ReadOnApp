@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReadOn</string>
+    <string name="readers_are_leaders">Readers Are Leaders</string>
+    <string name="powered_by_diepiriye">powered by @diepiriye</string>
+    <string name="error_loading_books">Check Internet Connection</string>
+    <string name="cooking_cuisine_class">Cooking, Cuisine Class</string>
+    <string name="jack_goody">Jack Goody</string>
+    <string name="_1982_06_24">1982-06-24</string>
+    <string name="cambridge_university_press">Cambridge University Press</string>
+</resources>
