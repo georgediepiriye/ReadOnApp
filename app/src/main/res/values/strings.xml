@@ -7,4 +7,11 @@
     <string name="jack_goody">Jack Goody</string>
     <string name="_1982_06_24">1982-06-24</string>
     <string name="cambridge_university_press">Cambridge University Press</string>
+    <string name="search_button">Search</string>
+    <string name="insert_title">Insert Title</string>
+    <string name="insert_author_s">Insert Author(s)</string>
+    <string name="insert_publisher">Insert Publisher</string>
+    <string name="insert_isbn">Insert ISBN</string>
+    <string name="search">Search</string>
+    <string name="advanced_search">Advanced Search</string>
 </resources>
